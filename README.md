@@ -1,5 +1,5 @@
 # AKI
-# AfroCom AI Initiative
+## AfroCom AI Initiative
 
 Welcome to the AfroCom AI Initiative! This open-source project aims to harness Collective Intelligence and Artificial Intelligence to foster user well-being, collaborative problem-solving, and community development within the global Afro-community (Africa & the Diaspora) through the AfroCom platform.
 
