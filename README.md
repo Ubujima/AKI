@@ -66,10 +66,10 @@ Our key objectives include:
    ```bash
    python run.py
 
-### Contributing
+## Contributing
 We welcome contributions from the community! To get started, please read our CONTRIBUTING.md for guidelines on how to contribute effectively.
 
-## Contribution Workflow
+### Contribution Workflow
 1. Fork the repository.
 2. Create a new branch (git checkout -b feature-name).
 3. Make your changes.
@@ -77,13 +77,13 @@ We welcome contributions from the community! To get started, please read our CON
 5. Push to the branch (git push origin feature-name).
 6. Create a pull request.
 
-### Community Guidelines
+## Community Guidelines
 Please read and adhere to our CODE_OF_CONDUCT.md to ensure a positive and inclusive community environment.
 
-### License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-### Contact
+## Contact
 For any questions, suggestions, or feedback, please contact us at:
 
 - Email: aki@afro-com.com
