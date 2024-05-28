@@ -37,7 +37,7 @@ Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a 
    ``` bash
    git checkout -b feature-name
    
-4. Set Up the Development Environment: Follow the instructions in the [README.md](README.md)README.md to set up the development environment and install dependencies.
+4. Set Up the Development Environment: Follow the instructions in the [README.md](README.md) to set up the development environment and install dependencies.
 
 ## Reporting Issues
 When reporting an issue, please include:
