@@ -81,7 +81,7 @@ We welcome contributions from the community! To get started, please read our [CO
 Please read and adhere to our CODE_OF_CONDUCT.md to ensure a positive and inclusive community environment.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Ubujima/AKI/blob/main/MIT%20LICENSE) file for more details.
 
 ## Contact
 For any questions, suggestions, or feedback, please contact us at:
