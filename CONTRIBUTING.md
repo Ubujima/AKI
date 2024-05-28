@@ -78,7 +78,7 @@ To report an issue, go to the Issues page and click "New issue".
 - Include examples and use cases where applicable.
 
 ## Community and Support
-Join our community on Slack or Discord to ask questions, share ideas, and get support from other contributors and maintainers.
+Join our community on [Slack](https://join.slack.com/t/afrocom-aki/shared_invite/zt-2jod3gehx-mWKfdZsSMFHPzpf0XF6c0A), [Discord](https://discord.gg/paa6g4SM2C) or [Google Doc](https://docs.google.com/document/d/19ING4nTiF3RLNzbiYm2-JcAzGhmVC3dparnDpbLL0zQ/edit?usp=sharing) to ask questions, share ideas, and get support from other contributors and maintainers.
 
 For general questions or discussions, please use the GitHub Discussions feature.
 
