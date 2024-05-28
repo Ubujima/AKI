@@ -86,7 +86,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Contact
 For any questions, suggestions, or feedback, please contact us at:
 
-- Email: aki@afro-com.com
+- Email: oss@afro-com.com
 - GitHub Issues: Create an Issue
 
 Join our community on [Slack](https://join.slack.com/t/afrocom-aki/shared_invite/zt-2jod3gehx-mWKfdZsSMFHPzpf0XF6c0A), [Discord](https://discord.gg/paa6g4SM2C) or [Google Doc](https://docs.google.com/document/d/19ING4nTiF3RLNzbiYm2-JcAzGhmVC3dparnDpbLL0zQ/edit?usp=sharing) to stay updated and participate in discussions.
